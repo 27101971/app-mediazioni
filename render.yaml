@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: app-mediazioni
-    env: python
-    plan: free
-    region: frankfurt
-    buildCommand: ""
-    startCommand: python app.py
