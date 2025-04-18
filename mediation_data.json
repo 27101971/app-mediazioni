@@ -1,0 +1,25 @@
+[
+    {
+        "data_richiesta": "2025-04-16",
+        "servizio_richiedente": "GINECOLOGIA",
+        "indirizzo_servizio": "Ospedale San Donato",
+        "nome_operatore_richiedente": "Infermiera",
+        "giorno_concordato": "2025-04-18",
+        "orario_concordato": "20:16",
+        "lingua_richiesta": "arabo",
+        "nazionalita_paziente": null,
+        "eta_paziente": null,
+        "sesso_paziente": "F",
+        "note_richiesta": null,
+        "id": 1,
+        "stato": "Eseguita",
+        "mediatore_assegnato": "Shanaz",
+        "timestamp_creazione": "2025-04-16T14:15:18.733746",
+        "richiedente_username": "ginecologia",
+        "pdf_path": "2025-04-16/Richiesta_1_GINECOLOGIA_163234_1.pdf",
+        "change_request_details": null,
+        "change_request_status": null,
+        "change_request_timestamp": null,
+        "change_request_user": null
+    }
+]

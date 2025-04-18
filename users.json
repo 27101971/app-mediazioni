@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "hashed_password": "scrypt:32768:8:1$vwFHN7zFYZ4UTYmz$b694abf3e77c4c40d6cf687a65dc8e4609dcca0e07a96e6c9772ec28c065d145a4dc5f87171af504a5fd886c58ac26ffe5d534fc46cc758ba77d6bbb8c948b6a",
+        "level": 2,
+        "nome_reparto": "Amministrazione"
+    },
+    "ginecologia": {
+        "hashed_password": "scrypt:32768:8:1$CCfejd5keu2Xk4rR$8b8678dbca902f11516823daf7c18de716dac531952fde4aa3344d7bfd0f39438e83c3ca8475aa1f5836e2181366f62838ffe1aade5ba8b1d4e7f523a36f4a25",
+        "level": 1,
+        "nome_reparto": "Ginecologia"
+    }
+}
